@@ -21,10 +21,10 @@ Here are some ideas to get you started:
 <img align="left" alt="CSS3" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/732/732190.svg">
 <img align="left" alt="Bootstrap" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png">
 <img align="left" alt="Sass" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png">
-<img align="left" alt="React" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/919/919851.svg">
+<img align="left" alt="React" width="22px" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-128.png">
 <img align="left" alt="Javascript" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
 <img align="left" alt="Git" width="22px" src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_git-128.png">
-<img align="left" alt="Figma" width="22px" src="https://cdn4.iconfinder.com/data/icons/bloomies-webdesign-tools/25/Figma_1_square-512.png">
+<img align="left" alt="Figma" width="30px" src="https://cdn4.iconfinder.com/data/icons/bloomies-webdesign-tools/25/Figma_square-128.png">
 
 <br>
 <br>

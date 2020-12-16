@@ -28,5 +28,5 @@ Here are some ideas to get you started:
 
 <br>
 <br>
-[<img src="https://{DOMAIN_OF_YOUR_VERCEL_APP}/api/run-spotify-status" alt="Your alt what" width="350" />](https://open.spotify.com/user/mynamejc)
+[<img src="https://https://readme-spotify-status-dyrleu2dc.vercel.app//api/run-spotify-status" alt="Spotify track" width="350" />](https://open.spotify.com/user/mynamejc)
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theCodingJohn&layout=compact&theme=dark">

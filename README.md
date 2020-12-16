@@ -28,5 +28,7 @@ Here are some ideas to get you started:
 
 <br>
 <br>
+
 [<img src="https://readme-spotify-status-five.vercel.app/api/run-spotify-status" alt="Spotify track" width="350" />](https://open.spotify.com/user/mynamejc)
+
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theCodingJohn&layout=compact&theme=dark">

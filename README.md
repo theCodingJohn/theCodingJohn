@@ -1,33 +1,25 @@
-### Hi there 👋
+### Hi there, I'm John! 👋
 
-<!--
-**theCodingJohn/theCodingJohn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on
+- 🌱 I’m currently learning GSAP and its plugins.
+- 👯 I’m looking to collaborate with other developers.
 
-Here are some ideas to get you started:
+[![Email Badge](./socials/email.svg)](mailto:thecodingjohn@outlook.com)
+[![Github Badge](./socials/github.svg)](https://github.com/theCodingJohn?tab=repositories)
+[![Linkedin Badge](./socials/linkedin.svg)](https://www.linkedin.com/in/john-carlo-cunanan-11847a17a)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ### Languages and Tools:
 
-<img align="left" alt="HTML5" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/226/226269.svg">
-<img align="left" alt="CSS3" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/732/732190.svg">
-<img align="left" alt="Bootstrap" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png">
-<img align="left" alt="Sass" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png">
-<img align="left" alt="React" width="22px" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-128.png">
-<img align="left" alt="Javascript" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
-<img align="left" alt="Git" width="22px" src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_git-128.png">
-<img align="left" alt="Figma" width="30px" src="https://i.pinimg.com/originals/a5/58/b4/a558b426cb8973523f37bbed94cf0f09.png">
-<img align="left" alt="Wordpress" width="30px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/wordpress-128.png">
-
-<br>
-<br>
+<div style="padding-left: 30px;margin-top: 10px">
+<img width="30px" alt="javascript" style="margin-right: 5px" src="./logos/javascript.svg"/>       
+<img width="30px" alt="react" style="margin-right: 5px" src="./logos/react.svg"/>       
+<img width="30px" alt="sass" style="margin-right: 5px" src="./logos/sass.svg"/>       
+<img width="20px" alt="html" style="margin-right: 5px" src="./logos/html-5.svg"/>    
+<img width="30px" alt="bootstrap" style="margin-right: 5px" src="./logos/bootstrap.svg"/>   
+<img width="30px" alt="git" style="margin-right: 5px" src="./logos/git-icon.svg"/>
+<img width="30px" alt="yarn" style="margin-right: 5px" src="./logos/yarn.svg"/>
+<img width="18px" alt="figma" style="margin-right: 5px" src="./logos/figma.svg"/>
+<img width="30px alt="wordpress" style="margin-right: 5px" src="./logos/wordpress-icon.svg"/>
+</div>
 
 [<img src="https://readme-spotify-status-five.vercel.app/api/run-spotify-status" alt="Spotify track" width="350" />](https://open.spotify.com/user/mynamejc)
-

@@ -1,6 +1,6 @@
 ### Hi there, I'm John! 👋
 
-- 🔭 I’m currently working on
+- 🔭 I’m currently working on my portfolio.
 - 🌱 I’m currently learning GSAP and its plugins.
 - 👯 I’m looking to collaborate with other developers.
 

@@ -21,5 +21,3 @@
 <img width="18px" alt="figma" style="margin-right: 5px" src="./logos/figma.svg"/>
 <img width="30px alt="wordpress" style="margin-right: 5px" src="./logos/wordpress-icon.svg"/>
 </div>
-
-[<img src="https://readme-spotify-status-five.vercel.app/api/run-spotify-status" alt="Spotify track" width="350" />](https://open.spotify.com/user/mynamejc)

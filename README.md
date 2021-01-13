@@ -3,6 +3,7 @@
 - 🔭 I’m currently working on my portfolio.
 - 🌱 I’m currently learning GSAP and its plugins.
 - 👯 I’m looking to collaborate with other developers.
+- 🗨️ Ask me about anything.
 
 [![Email Badge](./socials/email.svg)](mailto:thecodingjohn@outlook.com)
 [![Github Badge](./socials/github.svg)](https://github.com/theCodingJohn?tab=repositories)

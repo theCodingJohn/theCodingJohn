@@ -1,7 +1,7 @@
 ### Hi there, I'm John! 👋
 
 - 🔭 I’m currently working on my portfolio.
-- 🌱 I’m currently learning GatsbyJS.
+- 🌱 I’m currently learning GatsbyJS and GraphQL.
 - 👯 I’m looking to collaborate with other developers.
 - 🗨️ Ask me about anything.
 

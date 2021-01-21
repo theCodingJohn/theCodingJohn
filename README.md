@@ -7,7 +7,8 @@
 
 [![Email Badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:thecodingjohn@outlook.com)
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/theCodingJohn?tab=repositories)
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-carlo-cunanan-11847a17a)    
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-carlo-cunanan-11847a17a)            
+
 ![codewars](https://www.codewars.com/users/jccnnn/badges/micro)
 
 ### Languages and Tools:

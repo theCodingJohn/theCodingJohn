@@ -11,6 +11,8 @@
 
 ![codewars](https://www.codewars.com/users/jccnnn/badges/micro)
 
+<a href="https://www.last.fm/user/Pectoralz">Last.fm Profile</a>
+
 ### Languages and Tools:
 
 <div style="padding-left: 30px;margin-top: 10px">

@@ -13,9 +13,11 @@
 
 <a href="https://www.last.fm/user/Pectoralz">Last.fm Profile</a>
 
+
+
 ### Languages and Tools:
 
-<div style="padding-left: 30px;margin-top: 10px">
+
 <img align="left"  width="30px" alt="javascript" style="margin-right: 5px" src="./logos/javascript.svg"/>           
 <img align="left" width="30px" alt="react" style="margin-right: 5px" src="./logos/react.svg"/>       
 <img align="left" width="30px" alt="sass" style="margin-right: 5px" src="./logos/sass.svg"/>       
@@ -24,5 +26,8 @@
 <img align="left" width="30px" alt="git" style="margin-right: 5px" src="./logos/git-icon.svg"/>
 <img align="left" width="30px" alt="yarn" style="margin-right: 5px" src="./logos/yarn.svg"/>
 <img align="left" width="18px" alt="figma" style="margin-right: 5px" src="./logos/figma.svg"/>
-<img align="left" width="30px alt="wordpress" style="margin-right: 5px" src="./logos/wordpress-icon.svg"/>
-</div>
+<img align="left" width="30px alt="wordpress" style="margin-right: 5px" src="./logos/wordpress-icon.svg"/>    
+<br>
+                                                                                                        
+### Github Stats
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theCodingJohn&layout=compact&theme=dark">

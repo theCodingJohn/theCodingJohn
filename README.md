@@ -21,12 +21,10 @@
 <img align="left"  width="30px" alt="javascript" style="margin-right: 5px" src="./logos/javascript.svg"/>           
 <img align="left" width="30px" alt="react" style="margin-right: 5px" src="./logos/react.svg"/>       
 <img align="left" width="30px" alt="sass" style="margin-right: 5px" src="./logos/sass.svg"/>       
-<img align="left" width="20px" alt="html" style="margin-right: 5px" src="./logos/html-5.svg"/>    
-<img align="left" width="30px" alt="bootstrap" style="margin-right: 5px" src="./logos/bootstrap.svg"/>   
+<img align="left" width="20px" alt="html" style="margin-right: 5px" src="./logos/html-5.svg"/>      
 <img align="left" width="30px" alt="git" style="margin-right: 5px" src="./logos/git-icon.svg"/>
 <img align="left" width="30px" alt="yarn" style="margin-right: 5px" src="./logos/yarn.svg"/>
-<img align="left" width="18px" alt="figma" style="margin-right: 5px" src="./logos/figma.svg"/>
-<img align="left" width="30px alt="wordpress" style="margin-right: 5px" src="./logos/wordpress-icon.svg"/>    
+<img align="left" width="18px" alt="figma" style="margin-right: 5px" src="./logos/figma.svg"/> 
 <br>
                                                                                                         
 ### Github Stats

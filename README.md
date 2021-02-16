@@ -19,7 +19,7 @@
 
 
 <img align="left"  width="30px" alt="javascript" style="margin-right: 5px" src="./logos/javascript.svg"/>           
-<img width="30px" alt="typescript" style="margin-right: 5px" src="./logos/typescript-icon.svg"/>      
+<img align="left" width="30px" alt="typescript" style="margin-right: 5px" src="./logos/typescript-icon.svg"/>
 <img align="left" width="30px" alt="react" style="margin-right: 5px" src="./logos/react.svg"/>       
 <img align="left" width="30px" alt="sass" style="margin-right: 5px" src="./logos/sass.svg"/>       
 <img align="left" width="20px" alt="html" style="margin-right: 5px" src="./logos/html-5.svg"/>      

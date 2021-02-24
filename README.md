@@ -1,7 +1,7 @@
 ### Hi there, I'm John! 👋
 
 - 🔭 I’m currently working on my portfolio.
-- 🌱 I’m currently learning ReactJS and TypeScript.
+- 🌱 I’m currently learning ReactJS, Express and mongoDB.
 - 👯 I’m looking to collaborate with other developers.
 - 🗨️ Ask me about anything.
 
@@ -21,6 +21,7 @@
 <img align="left"  width="30px" alt="javascript" style="margin-right: 5px" src="./logos/javascript.svg"/>           
 <img align="left" width="30px" alt="typescript" style="margin-right: 5px" src="./logos/typescript-icon.svg"/>
 <img align="left" width="30px" alt="react" style="margin-right: 5px" src="./logos/react.svg"/>       
+<img align="left" width="70px" alt="express" style="margin-right: 5px" src="./logos/express.svg"/>    
 <img align="left" width="30px" alt="sass" style="margin-right: 5px" src="./logos/sass.svg"/>       
 <img align="left" width="20px" alt="html" style="margin-right: 5px" src="./logos/html-5.svg"/>      
 <img align="left" width="30px" alt="git" style="margin-right: 5px" src="./logos/git-icon.svg"/>

@@ -24,6 +24,7 @@
 <img align="left" width="30px" alt="sass" style="margin-right: 5px" src="./logos/sass.svg"/>           
 <img align="left" width="30px" alt="jest" style="margin-right: 5px" src="./logos/jest.svg"/>   
 <img align="left" width="70px" height="30px" alt="express" style="margin-right: 5px" src="./logos/express.svg"/>    
+<img align="left" width="18px" alt="figma" style="margin-right: 5px" src="./logos/figma.svg"/> 
 <br>
                                                                                                         
 ### Github Stats

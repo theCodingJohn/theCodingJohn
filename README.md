@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently working on my portfolio.
 - 🌱 I’m currently learning ReactJS, Express and mongoDB.
-- 👯 I’m looking to collaborate with other developers.
 - 🗨️ Ask me about anything.
 
 [![Email Badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:thecodingjohn@outlook.com)
@@ -12,7 +11,7 @@
 <a href="https://www.codewars.com/users/jccnnn">![codewars](https://www.codewars.com/users/jccnnn/badges/micro)</a>
 
 <a href="https://www.last.fm/user/Pectoralz">Last.fm Profile</a>
-
+<a href="https://trakt.tv/users/whiteravenn">Trakt</a>
 
 
 ### Languages and Tools:

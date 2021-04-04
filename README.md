@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently working on my portfolio.
 - 🌱 I’m currently learning ReactJS, Express and mongoDB.
-- 🗨️ Ask me about anything.
 
 [![Email Badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:thecodingjohn@outlook.com)
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/theCodingJohn?tab=repositories)

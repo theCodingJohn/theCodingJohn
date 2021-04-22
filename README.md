@@ -19,6 +19,7 @@
 <img align="left"  width="30px" alt="javascript" style="margin-right: 5px" src="./logos/javascript.svg"/>           
 <img align="left" width="30px" alt="typescript" style="margin-right: 5px" src="./logos/typescript-icon.svg"/>
 <img align="left" width="30px" alt="react" style="margin-right: 5px" src="./logos/react.svg"/>       
+<img align="left" width="45px" alt="nextjs" style="margin-right: 5px" src="./logos/nextjs.svg"/>       
 <img align="left" width="30px" alt="redux" style="margin-right: 5px" src="./logos/redux.svg"/>       
 <img align="left" width="30px" alt="nodejs" style="margin-right: 5px" src="./logos/nodejs-icon.svg"/>       
 <img align="left" width="30px" alt="mongodb" style="margin-right: 5px" src="./logos/mongodb-icon.svg"/>    

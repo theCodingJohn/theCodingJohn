@@ -1,6 +1,6 @@
 ### Hi there, I'm John! 👋
 
-- 🔭 I’m currently working on my portfolio.
+- 🔭 I’m currently working on [Kinomo App](https://kinomo-client-7q81rvu9s-thecodingjohn.vercel.app/movies).
 - 🌱 I’m currently learning ReactJS, Express and mongoDB.
 - 👀 I’m looking to collaborate on MERN stack projects.
 

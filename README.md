@@ -2,7 +2,7 @@
 ### Hi there, I'm John! 👋
 
 - 🔭 I’m currently working on [Kinomo App](https://kinomo-client-7q81rvu9s-thecodingjohn.vercel.app/movies).
-- 🌱 I’m currently learning ReactJS, Express and mongoDB.
+- 🌱 I’m currently learning React Native.
 - 👀 I’m looking to collaborate on MERN stack projects.
 
 <a href="https://www.codewars.com/users/jccnnn">![codewars](https://www.codewars.com/users/jccnnn/badges/micro)</a>
